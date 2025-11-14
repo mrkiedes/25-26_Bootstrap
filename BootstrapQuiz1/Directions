@@ -6,3 +6,4 @@ The final design will use Bootstrap Grid to manage the entire page flow.
 
 Rules:
 1. You may NOT edit the HTML except for adding classes for Bootstrap and its links.
+2. You may add div specifically meant for bootstrap classes
