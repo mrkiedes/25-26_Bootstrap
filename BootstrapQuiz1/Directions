@@ -1,5 +1,7 @@
 The Goal
-Students must use Bootstrap to arrange five main structural elements of a website (header, nav, sidebar, main, and footer) into a professional layout that matches a provided target image.
+Students must use Bootstrap to arrange five main structural elements of a
+ website (header, nav, sidebar, main, and footer) into a professional
+ layout that matches a provided target image.
 
 The Target Layout
 The final design will use Bootstrap Grid to manage the entire page flow.
